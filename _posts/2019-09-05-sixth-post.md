@@ -2,6 +2,7 @@
 layout: post
 title: Cracks
 image: /img/crack.jpg
+hero_image: /img/background_ultir.png
 author: Dr. M. O'Byrne
 description: This is a post with an introduction image and text
 intro: Example of simulated cracked specimen under varying lighting and turbidity conditions
