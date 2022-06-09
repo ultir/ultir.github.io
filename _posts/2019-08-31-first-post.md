@@ -6,7 +6,7 @@ image: /img/imgB2.jpg
 hero_image: /img/background_ultir.jpg
 ---
 
-Additionl datasets featuring examples of cracks and corrosion are available via the links below.
+Additional datasets featuring examples of cracks and corrosion are available via the links below.
 
 ### Crack images
 - 7,344 crack images
