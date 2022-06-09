@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: post
 title: Cracks
 image: /img/crack.jpg
 hero_image: /img/background_ultir.png

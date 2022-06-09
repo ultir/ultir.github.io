@@ -5,14 +5,14 @@ layout: default
 {% if page.intro %}
 <div class="intro">
     <div class="columns is-centered">
-        {% if page.intro_image %}
+        {% if page.hero_image %}
         <div class="column is-4-desktop is-6-tablet">
             <p class="title is-0">{{ page.intro }}</p>
         </div>
         {% endif %}
         <div class="column is-8-desktop is-6-tablet">
-            <figure class="image {% if page.intro_image_ratio %} {{ page.intro_image_ratio }} {% else %} is-16by9 {% endif %}">
-                <img src="{{ page.intro_image | prepend: site.baseurl }}" alt="{{ page.title }}" />
+            <figure class="image {% if page.hero_image_ratio %} {{ page.hero_image_ratio }} {% else %} is-16by9 {% endif %}">
+                <img src="{{ page.hero_image | prepend: site.baseurl }}" alt="{{ page.title }}" />
             </figure>
         </div>
     </div>
