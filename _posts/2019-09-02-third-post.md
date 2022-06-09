@@ -3,6 +3,7 @@ layout: post
 title: Documentation
 author: Dr. M. O'Byrne
 image: /img/imgC.jpg
+hero_image: /img/background_ultir.jpg
 ---
 
 This page describes the file naming convention and how to use the repository. There is growing interest in the development of image based damage detection methods for the purpose of automated inspection of offshore structures. Image based methods are capable of detecting and quantifying cracks, surface defects, and shape information, which can be key factors when diagnosing the condition of a structure. As with any Non-Destructive Testing (NDT) technique, it is of great practical importance for inspectors to know the effectiveness of  methods when they are applied in the field; in this case, an underwater environment that is characterized by reduced visibility. The degree of visibility is largely affected by lighting and turbidity. The Underwater Lighting and Turbidity Image Repository (ULTIR) features images of various damage forms and material types photographed under controlled lighting and turbidity levels. Good quality imagery is often hard to come by when evaluating new or existing image based damage detection methods. Thus, there are clear benefits of having a large, standardized, well-annotated and freely-available database of images and associated metadata.

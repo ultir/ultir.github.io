@@ -2,6 +2,7 @@
 layout: post
 title: Corrosion
 image: /img/corrosion.jpg
+hero_image: /img/background_ultir.jpg
 author: Dr. M. O'Byrne
 description: This is a post with an introduction image and text
 intro: Example of simulated corroded specimen under varying lighting and turbidity conditions

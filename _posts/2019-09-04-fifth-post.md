@@ -3,6 +3,7 @@ layout: post
 title: About
 author: Dr. M. O'Byrne
 image: /img/imgDsq.jpg
+hero_image: /img/background_ultir.jpg
 ---
 
 The Underwater Lighting and Turbidity Image Repository (ULTIR) is a collection of high resolution images taken under varying lighting and turbidity levels. The repository allows inspectors to gauge the effectiveness of using image-based algorithms for the purpose of detecting and quantifying damage in an underwater environment, and to establish the limits beyond which damage detection is no longer practical. Moreover, appropriate imagery is often hard to freely come by when evaluating new or existing image-based damage detection methods.
