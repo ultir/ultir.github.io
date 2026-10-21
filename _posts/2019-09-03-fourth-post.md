@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: Acknowledgements
-subtitle: Acknowledgements
+author: Dr. M. O'Byrne
 image: /img/supported_by.jpg
 hero_image: /img/background_ultir.jpg
 ---
